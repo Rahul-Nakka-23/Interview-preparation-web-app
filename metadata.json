@@ -1,0 +1,9 @@
+
+{
+  "name": "AI Interview Prep",
+  "description": "An AI-powered interview preparation application that conducts mock interviews, provides personalized feedback and roadmaps, and helps users track their progress.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
